@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/Calculator">D:/Programming/C++ hillel/Calculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Calculator</file>
-
-  </qresource>
-</RCC>

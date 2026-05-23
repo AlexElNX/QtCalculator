@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Calculator/">
-    <file alias="include/New Text Document.txt">D:/Programming/C++ hillel/Calculator/include/New Text Document.txt</file>
-  </qresource>
-</RCC>
-
