@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Calculator/">
+    <file alias="Main.qml">D:/Programming/C++ hillel/Calculator/Main.qml</file>
+    <file alias="CalcButton.qml">D:/Programming/C++ hillel/Calculator/CalcButton.qml</file>
+  </qresource>
+</RCC>
+

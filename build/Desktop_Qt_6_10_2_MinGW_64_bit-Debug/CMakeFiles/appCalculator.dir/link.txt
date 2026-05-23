@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\appCalculator.dir/objects.a
+D:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\appCalculator.dir/objects.a @CMakeFiles\appCalculator.dir\objects1.rsp
+D:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\appCalculator.dir/objects.a -Wl,--no-whole-archive -o appCalculator.exe -Wl,--out-implib,libappCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\appCalculator.dir\linkLibs.rsp
